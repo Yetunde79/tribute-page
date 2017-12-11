@@ -1,0 +1,21 @@
+.main{
+background-color: #C8C8C8;
+}
+
+h1{
+  font-family: Palatino, sans-serif;
+}
+h2{
+   font-family: Palatino, sans-serif;
+}
+.about{
+  width: 50%;
+  margin:auto;
+}
+
+.quote{
+   margin-top: 40px;
+}
+.wiki{
+   margin-top: 20px;
+}
